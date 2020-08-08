@@ -6,3 +6,4 @@
 ### 未來預計轉到.net開發
 ### 技能:HTML/CSS/JS
 ### 技能:C#/MSSQL
+### 熟悉系統 windows/linux
