@@ -1,16 +1,6 @@
 ### Hi there 👋
-
-<!--
-**qsc811022/qsc811022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...系統工程師
-- 🌱 I’m currently learning ... NET開發
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 姓名:
+### 學歷:資管
+### 工作經驗2y:系統工程師
+### 正在學習.net開發
+### 未來預計轉到.net開發
