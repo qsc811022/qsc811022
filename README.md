@@ -4,6 +4,6 @@
 ### 工作經驗2y:系統工程師
 ### 正在學習前端相關技術
 ### 未來預計轉到前端工程師
-### 技能:HTML/CSS/JS
+### 技能:HTML/CSS/JS/RWD/bootsrap4
 ### 技能:C#/MSSQL
-### 熟悉系統 windows/linux
+### OS: windows/linux
